@@ -30,7 +30,15 @@ habilidades, peguei gosto pela lógica e hoje sou viciado e busco aprender mais.
 ### Qlik Sense
 - **Desenvolvimento de DashBoard** -- Devido a variedade de demandas, entendi alguns fundamentos do qlik sense e desenvolvi alguns dashboards base ou relatório.
 
+## Estudos
+### Faculdade/Curso
+- Neste momento, estou cursando Análise e Desenvolvimento de Sistemas na faculdade Cesuca.
 
+### Estudos Individuais
+- Estou adquirindo mais conhecimento com POO;
+- Estou estudando JavaScript;
+- Estou adquirindo mais conhecimento em HTML e CSS;
+- Adquirindo mais conhecimentos com API.
 
 
 
