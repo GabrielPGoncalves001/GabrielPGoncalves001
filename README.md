@@ -2,7 +2,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" widht="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" widht="40" height="40"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPGoncalves001&show_icons=true&theme=transparent)
+![GabrielPGoncalves001's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPGoncalves001&show_icons=true&theme=transparent)
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="10" height="10"/> Acesse meu LinkedIn: www.linkedin.com/in/gabriel-pereira-goncalves1
 ## Carreira
