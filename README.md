@@ -1,16 +1,36 @@
-## Hi there 👋
+## Olá, tudo certo? Me chamo Gabriel Gonçalves.
 
-<!--
-**GabrielPGoncalves001/GabrielPGoncalves001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" widht="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" widht="40" height="40"/>
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPGoncalves001&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="10" height="10"/> Acesse meu LinkedIn: www.linkedin.com/in/gabriel-pereira-goncalves1
+## Carreira
+Entrei para uma empresa varejista como jovem aprendiz ao final dos meus 16 anos, foi lá que tive
+o primeiro contato com toda a lógica de programação, de início usava Python. Acabei gostando
+e até hoje programo nesta linguagem. Com o tempo fui tendo mais desafios pela frente e fui conhecer o SQL.
+Em SQL, desenvolvi algumas querys, arrumei querys já criadas mas nunca tive tanta oportunidade para ir mais a fundo,
+afinal, é liberado apenas banco teste além de não poder baixar nada sem ser ADM. Com o que tive fui desenvolvendo 
+habilidades, peguei gosto pela lógica e hoje sou viciado e busco aprender mais.
+
+## Habilidades Desenvolvidas em experiência
+### Python 
+- **Manipulação de planilhas com Pandas** -- Automatizei alguns relatórios com essa biblioteca; 
+- **Automatizações com Pyautogui** -- Aprendi a usar essa biblioteca para poder automatizar demandas manuais;
+- **Automatizações web com Selenium** -- Usei essa biblioteca para poder criar alguns emails rotineiros de relatórios;
+- **Webscraping com Selenium** -- Em um projeto pessoal, usei selenium para realizar webscrapings de e-commerce dinâmicos;
+- **Biblioteca OS** -- Manipualçao de diretórios com OS;
+- **Loops, condições e tratamento de erros** -- Devido a grande demanda de relatórios usava muitos loops e try;
+- **Funções e Classes (POO)** -- Habilidade desenvolvida recentemente, estou em um projeto de organizar alguns arquivos com POO.
+
+### PL/SQL 
+
+- **Criação de Querys** -- Criei algumas querys com o que tinha aprendido, atualmente com cruzamento de tabelas (join, where, order by).
+
+### Qlik Sense
+- **Desenvolvimento de DashBoard** -- Devido a variedade de demandas, entendi alguns fundamentos do qlik sense e desenvolvi alguns dashboards base ou relatório.
+
+
+
+
+
