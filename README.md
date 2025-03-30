@@ -6,12 +6,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="10" height="10"/> Acesse meu LinkedIn: www.linkedin.com/in/gabriel-pereira-goncalves1
 ## Carreira
-Entrei para uma empresa varejista como jovem aprendiz ao final dos meus 16 anos, foi lá que tive
-o primeiro contato com toda a lógica de programação, de início usava Python. Acabei gostando
-e até hoje programo nesta linguagem. Com o tempo fui tendo mais desafios pela frente e fui conhecer o SQL.
-Em SQL, desenvolvi algumas querys, arrumei querys já criadas mas nunca tive tanta oportunidade para ir mais a fundo,
-afinal, é liberado apenas banco teste além de não poder baixar nada sem ser ADM. Com o que tive fui desenvolvendo 
-habilidades, peguei gosto pela lógica e hoje sou viciado e busco aprender mais.
+Entrei para uma empresa varejista como jovem aprendiz ao final dos meus 16 anos. Foi lá que tive o primeiro contato com toda a lógica de programação. De início, usava Python. Acabei gostando e até hoje programo nessa linguagem. Com o tempo, fui tendo mais desafios pela frente e passei a conhecer o SQL. Em SQL, desenvolvi algumas querys, arrumei querys já criadas, mas nunca tive tantas oportunidades para ir mais a fundo, afinal, só tenho acesso ao banco de dados de teste e não posso baixar nada sem ser admin. Com o que tive, fui desenvolvendo habilidades, peguei gosto pela lógica e, hoje, sou viciado  em programação e busco aprender mais.
 
 ## Habilidades Desenvolvidas em experiência
 ### Python 
