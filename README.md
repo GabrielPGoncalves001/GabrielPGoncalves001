@@ -30,10 +30,10 @@ Entrei para uma empresa varejista como jovem aprendiz ao final dos meus 16 anos.
 - Neste momento, estou cursando Análise e Desenvolvimento de Sistemas na faculdade Cesuca.
 
 ### Estudos Individuais
-- Estou adquirindo mais conhecimento com POO;
-- Estou estudando JavaScript;
-- Estou adquirindo mais conhecimento em HTML e CSS;
-- Adquirindo mais conhecimentos com API.
+- **POO**: Estou adquirindo mais conhecimento com POO;
+- **Javascript**: Estou estudando JavaScript;
+- **Html/CSS**: Estou adquirindo mais conhecimento em HTML e CSS;
+- **API**: Adquirindo mais conhecimentos com API.
 
 
 
